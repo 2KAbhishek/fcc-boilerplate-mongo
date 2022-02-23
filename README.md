@@ -23,29 +23,23 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
-
-<figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/fcc-boilerplate-mongo/main/images/screenshot.png" alt="fcc-boilerplate-mongo Demo" style="width:100%">
-  <br/>
-  <figcaption>fcc-boilerplate-mongo screenshot</figcaption>
-</figure>
+<h3>MongoDB and Mongoose 📃🦦</h3>
 
 </div>
 
 ## What is this
 
-fcc-boilerplate-mongo is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+This repo contains the project created for FreeCodeCamp's [MongoDB and Mongoose](https://www.freecodecamp.org/learn/back-end-development-and-apis/#mongodb-and-mongoose), part of the Back-End Development track.
 
 ## Inspiration
 
-fcc-boilerplate-mongo was inspired by `<reason/idea>`.
+Wanted to finish the Back-End Development curriculum.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `node`
 
 ## Getting fcc-boilerplate-mongo
 
@@ -54,55 +48,35 @@ To install fcc-boilerplate-mongo, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/fcc-boilerplate-mongo
 cd fcc-boilerplate-mongo
-<install_command>
 ```
 
 ## Using fcc-boilerplate-mongo
 
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
+This repo was created to help new developers get started with MongoDB and learn basics of NoSQL, and to help people who are trying to complete FCC's Back-End Development certification.
 
-FLAGS:
-    -h, --help              Prints help information.
+Go through the commit history of this repo to understand the solutions to different exercises.
 
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
-```
+To run the app locally: `npm start`
 
 ## How it was built
 
-fcc-boilerplate-mongo was built using `<tech/library>`
+fcc-boilerplate-mongo was built using [boilerplate-mongo](https://github.com/freeCodeCamp/boilerplate-mongomongoose/) as a starting point.
 
 ## Challenges faced
 
-While building fcc-boilerplate-mongo the main challenges were `<issue/difficulty>`
+- Not a challenge but a learning experience, in order to make tests that depend on the environment variables, we have to update the .env file on Glitch as well.
 
 ## What I learned
 
-While building fcc-boilerplate-mongo I `<learned/accomplished>` about `<learning/accomplishment>`
-
 ## What's next
 
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+Planning to finish the Back-end Certification.
 
 Hit the ⭐ button if you found this useful.
 
 ## More Info
+
+Find the accompanying Glitch project [here](https://glitch.com/edit/#!/shimmering-tortoiseshell-play).
 
 <div align="center">
 
