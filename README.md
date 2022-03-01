@@ -52,7 +52,7 @@ cd fcc-boilerplate-mongo
 
 ## Using fcc-boilerplate-mongo
 
-This repo was created to help new developers get started with MongoDB and learn basics of NoSQL, and to help people who are trying to complete FCC's Back-End Development certification.
+This repo was created to help new developers get started with MongoDB, Mongoose and learn basics of NoSQL, and to help people who are trying to complete FCC's Back-End Development certification.
 
 Go through the commit history of this repo to understand the solutions to different exercises.
 
@@ -68,9 +68,10 @@ fcc-boilerplate-mongo was built using [boilerplate-mongo](https://github.com/fre
 
 ## What I learned
 
-## What's next
-
-Planning to finish the Back-end Certification.
+- Got to learn how to use the MongoDB Atlas.
+- Played around with mongosh.
+- Learned how to use Mongoose, and explored its features.
+- Used MongoDB as an ORM.
 
 Hit the ⭐ button if you found this useful.
 
